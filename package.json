@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fercodee/clean-react/issues"
   },
-  "homepage": "https://github.com/fercodee/clean-react#readme"
+  "homepage": "https://github.com/fercodee/clean-react#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.5.0"
+  }
 }
