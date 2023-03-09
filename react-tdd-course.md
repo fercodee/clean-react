@@ -41,4 +41,4 @@ Obs: faker provides its own type definitions, so you don't need @types/faker ins
 Faker generate random values!
 
 # Where did i stop?
--> Login - Domain e Data Layer :: 04 (13:10)
+-> 3. Infra Layer - Implementando o HttpPostClient :: 01 (00:00)
