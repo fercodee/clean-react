@@ -41,4 +41,4 @@ Obs: faker provides its own type definitions, so you don't need @types/faker ins
 Faker generate random values!
 
 # Where did i stop?
--> 3. 4. Login - Presentation Layer :: 03 (00:00)
+-> 3. 4. Login - Presentation Layer :: 03 (07:32)
