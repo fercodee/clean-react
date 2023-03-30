@@ -44,7 +44,7 @@ module.exports = {
   devserver: {
     contentBase: './public',
     writeToDisk: true,
-    hsitoryApiFallback: true
+    historyApiFallback: true
   },
   externals: {
     react: 'React',
