@@ -40,5 +40,8 @@ obs: see promise variable
 Obs: faker provides its own type definitions, so you don't need @types/faker installed!
 Faker generate random values!
 
+# Important
+-  [Review] Login - Presentation Layer :: 03 (config webpack)
+
 # Where did i stop?
 -> 3. 4. Login - Presentation Layer :: 03 (07:32)
